@@ -142,7 +142,7 @@ img{
     grid-template-columns: 3fr 1fr;
 }
 .producto:nth-child(1) img{
-    /* height: 43rem; */
+    height: 43rem;
     width: 100%;
     object-fit: cover;
 }
